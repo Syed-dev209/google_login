@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "385621217542",
+    "firebase_url": "https://login-77680.firebaseio.com",
+    "project_id": "login-77680",
+    "storage_bucket": "login-77680.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385621217542:android:70012b164c619224ac4e87",
+        "android_client_info": {
+          "package_name": "ilhan.googlelogin.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385621217542-peqaf0seip6u6ovpg7v2hfqudeq58f0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCgdb8ZyzhyvamyTwos8UZZogFWyxieOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385621217542-peqaf0seip6u6ovpg7v2hfqudeq58f0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
